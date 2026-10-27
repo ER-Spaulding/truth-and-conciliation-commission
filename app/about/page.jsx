@@ -185,6 +185,16 @@ export default function AboutPage() {
             />
             <h3>Cori Bush-Merritts</h3>
             <p>
+              Cori Bush-Merritts is an American politician, nurse, pastor,
+              and Black Lives Matter activist who served as the U.S.
+              Representative for Missouri&apos;s 1st congressional district
+              from 2021 to 2025, the first African-American woman to serve in
+              the U.S. House of Representatives from Missouri. She became a
+              political activist during the 2014 Ferguson unrest, where she
+              worked as a triage nurse and organizer, and previously served
+              as pastor of Kingdom Embassy International Church in St. Louis.
+            </p>
+            <p>
               <a
                 href="https://www.facebook.com/cori4congress"
                 target="_blank"
