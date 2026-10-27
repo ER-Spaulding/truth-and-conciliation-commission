@@ -151,6 +151,23 @@ export default function AboutPage() {
             />
             <h3>Rev. Dr. Stephany Rose Spaulding</h3>
             <p>
+              Rev. Dr. Stephany Rose Spaulding is the founder and director of
+              the Truth and Conciliation Commission. She previously served as
+              pastor of Ebenezer Baptist Church in Colorado Springs, and
+              retired as a tenured associate professor and chair of
+              Women&apos;s and Ethnic Studies at the University of Colorado,
+              Colorado Springs, where she also previously served as Interim
+              Vice Chancellor for Equity, Diversity, and Inclusion. With a
+              B.A. and M.A. in Literature from Clark Atlanta University and
+              Purdue University, respectively, as well as a Ph.D. in American
+              Studies from Purdue University, she specializes in critical
+              race and gender studies, English literature, and American
+              popular culture. She is an interdisciplinary scholar and a
+              social justice activist who produces generative scholarship
+              that reaches far beyond the walls of academia and well into
+              transformative ministry and community building.
+            </p>
+            <p>
               <a
                 href="https://www.facebook.com/drstephanyrose"
                 target="_blank"
@@ -178,11 +195,6 @@ export default function AboutPage() {
             </p>
           </article>
         </div>
-        <p className="placeholder">
-          [Placeholder] No titles, bios, or roles are shown for the Leadership
-          Team beyond the names and links supplied — add approved bios here when
-          available.
-        </p>
       </section>
 
       <div className="cta-row">

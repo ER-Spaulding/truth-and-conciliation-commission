@@ -117,12 +117,13 @@ h3 { font-size: 1.25rem; }
 .gallery-item img { display: block; width: 100%; height: auto; }
 .gallery-item figcaption { padding: 0.75rem 1rem 1rem; }
 
-.leadership { display: grid; gap: 1rem; margin-top: 1rem; }
+.leadership { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.25rem; margin-top: 1rem; }
 .leader {
   background: var(--white);
   border-radius: 12px;
   padding: 1.25rem 1.5rem;
 }
+.leader img { display: block; width: 240px; height: 240px; object-fit: cover; border-radius: 8px; }
 .placeholder {
   background: #FFF8E1;
   border: 1px solid var(--gold);
