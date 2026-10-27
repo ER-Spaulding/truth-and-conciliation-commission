@@ -15,11 +15,7 @@ export default function ContactPage() {
       <p>
         Email: <a href="mailto:contact@the-tacc.org">contact@the-tacc.org</a>
       </p>
-      <p className="placeholder">
-        [Placeholder] Phone: [Placeholder] — Mailing address: Chicago, IL
-        [Placeholder — street address not supplied] — Social media:
-        [Placeholder]
-      </p>
+      <p>Location: Chicago, IL</p>
       <p>
         The form collects First Name, Last Name, Email, and Phone, as submitted
         by you. See our <a href="/privacy">Privacy Policy</a> for details.

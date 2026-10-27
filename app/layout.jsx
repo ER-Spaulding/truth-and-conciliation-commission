@@ -29,8 +29,6 @@ export default function RootLayout({ children }) {
               <Link href="/">Home</Link>
               <Link href="/about">About</Link>
               <Link href="/contact">Contact Us</Link>
-              <Link href="/privacy">Privacy Policy</Link>
-              <Link href="/terms">Terms and Conditions</Link>
             </nav>
           </div>
         </header>
@@ -51,18 +49,9 @@ export default function RootLayout({ children }) {
               <a href="mailto:contact@the-tacc.org">contact@the-tacc.org</a>
             </p>
             <nav className="footer-nav" aria-label="Footer navigation">
-              <Link href="/">Home</Link>
-              <Link href="/about">About</Link>
-              <Link href="/contact">Contact Us</Link>
               <Link href="/privacy">Privacy Policy</Link>
               <Link href="/terms">Terms and Conditions</Link>
             </nav>
-            <p>
-              <small>
-                Phone and street address beyond Chicago, IL are [Placeholder] —
-                see the <Link href="/contact">Contact Us</Link> page.
-              </small>
-            </p>
           </div>
         </footer>
       </body>
